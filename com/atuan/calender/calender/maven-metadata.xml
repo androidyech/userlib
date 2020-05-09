@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.atuan.calender</groupId>
+  <artifactId>calender</artifactId>
+  <versioning>
+    <release>v2.0.0</release>
+    <versions>
+      <version>v2.0.0</version>
+    </versions>
+    <lastUpdated>20200509055404</lastUpdated>
+  </versioning>
+</metadata>
